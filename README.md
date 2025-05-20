@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 * 🌍  I'm based in **Ranchi**
-* ✉️  You can contact me at [me.sauryaranjan14@gmail.com](mailto:sauryaranjan2003@gmail.com)
+* ✉️  You can contact me at [sauryaranjan2003@gmail.com](mailto:sauryaranjan2003@gmail.com)
 * 🧠 I am an **open-source enthusiast** and an aspiring **mern stack developer** along with other skills like  C++, Java, Javascript.
 * 🌱 I’m currently focusing on **DSA.**
 * 👯 I’m looking forward to **be a part of various interesting projects.**
